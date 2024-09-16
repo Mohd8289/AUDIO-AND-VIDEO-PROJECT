@@ -1,0 +1,35 @@
+
+/* *{padding: auto;
+margin: auto;} */
+
+h1{color: black;
+background-color: aquamarine;
+text-align: center;}
+
+
+audio{margin: 15px;
+      } 
+
+.a1{align-items: right;
+    background-color: red;
+    align-self: right;
+    margin-left: 20px;}
+
+
+    .a2{align-items: right;
+        background-color: blue;
+       
+        }
+
+
+/*i frame target in the css*/
+
+.b1{height: 200px;
+    width: 300px;
+margin: 10px;}
+
+
+
+.c1{height: 200px;
+       width: 400px;
+    margin: 15px;}
